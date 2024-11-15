@@ -1,4 +1,4 @@
-# EXNO:4:
+# EXNO4:
 Feature Scaling and Selection
 
 # AIM:
